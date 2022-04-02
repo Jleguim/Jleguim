@@ -1,8 +1,6 @@
 ### Hey, I'm Javier 👋
 #### 17 year old self-taught developer that builds stuff from the ground up for "fun".
 
-<img src='https://cdn.discordapp.com/attachments/458719496639610882/959630825249452082/Background.png' alt='17 year old self-taught developer that builds stuff from the ground up for "fun"' height='180'>
-
 Skills: JS / HTML / NODE / PYTHON
 
 - 🔭 I’m currently working on https://github.com/Jleguim/tutmonda-project 
