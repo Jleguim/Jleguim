@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, I'm Javier
+### Hey, I'm Javier 👋
 #### 17 year old self taught developer that builds stuff from the ground up for "fun".
 ![17 year old self taught developer that builds stuff from the ground up for "fun".](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
