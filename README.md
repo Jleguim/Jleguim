@@ -1,20 +1,23 @@
 ## Aye, I'm Javi 👋
+>_Nunca pares de aprender._ - Someone probably
 #### 17 year old self-taught developer that builds stuff from the ground up for "fun".
 - 🤔 Currently learning Python
 - 💜 Purple is my favorite color
 - ❤ Love ferrets, cats and hedgehogs
 - 🦍 Working on [Tutmonda](https://github.com/Jleguim/tutmonda-project)
 
-### Skills: 
+### Skills
 - 🌐 Web development experience with JS, HTML & Express
 - 📋 Database knowledge with Mongo & MySQL
 - 💬 Text bot experience with Discord & Telegram
+- 🗨 Bilingual (English & Spanish)
 
-### Social media:
+### Contact
 - Youtube ([Briggoes](https://www.youtube.com/channel/UC15bHf8XbPIlQkifmlaSoDw))
 - Twitter ([@Jleguim_](https://twitter.com/Jleguim_))
 - Discord (Briggs#4992)
 
+<details><summary>Stats</summary>
 <table align="center">
   <tr>
     <td>
