@@ -16,6 +16,7 @@
 - Youtube ([Briggoes](https://www.youtube.com/channel/UC15bHf8XbPIlQkifmlaSoDw))
 - Twitter ([@Jleguim_](https://twitter.com/Jleguim_))
 - Discord (Briggs#4992)
+- Email (jlegui745@gmail.com)
 
 <details><summary>Stats</summary>
 <table align="center">
