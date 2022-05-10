@@ -1,17 +1,27 @@
-### Hey, I'm Javier 👋
+## Aye, I'm Javi 👋
 #### 17 year old self-taught developer that builds stuff from the ground up for "fun".
+- 🤔 Currently learning Python
+- 💜 Purple is my favorite color
+- ❤ Love ferrets, cats and hedgehogs
+- 🦍 Working on [Tutmonda](https://github.com/Jleguim/tutmonda-project)
 
-Skills: JS / HTML / NODE / PYTHON
+### Skills: 
+- 🌐 Web development experience with JS, HTML & Express
+- 📋 Database knowledge with Mongo & MySQL
+- 💬 Text bot experience with Discord & Telegram
 
-- 🔭 I’m currently working on [Tutmonda](https://github.com/Jleguim/tutmonda-project )
-- 🌱 I’m currently learning Python 
-- 🤔 I’m looking for help with learning MEAN stack 
-- 💬 Ask me about ferrets 
-- 📫 How to reach me: jlegui745@gmail.com 
-- ⚡ Fun fact: pal presence 
+### Social media:
+- Youtube ([Briggoes](https://www.youtube.com/channel/UC15bHf8XbPIlQkifmlaSoDw))
+- Twitter ([@Jleguim_](https://twitter.com/Jleguim_))
+- Discord (Briggs#4992)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jleguim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Jleguim_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jleguim_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC15bHf8XbPIlQkifmlaSoDw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](Briggs#4992)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jleguim)  
-
+<table align="center">
+  <tr>
+    <td>
+      <img src ="https://github-readme-stats.vercel.app/api?username=Jleguim&show_icons=true&theme=tokyonight&custom_title=Jleguim%27s%20stats&hide_border=true&bg_color=00000000&hide_title=true" />
+    </td>
+    <td>
+      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Jleguim&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" />
+    </td>
+  </tr>
+</table>
