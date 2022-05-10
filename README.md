@@ -3,7 +3,7 @@
 
 Skills: JS / HTML / NODE / PYTHON
 
-- 🔭 I’m currently working on https://github.com/Jleguim/tutmonda-project 
+- 🔭 I’m currently working on [Tutmonda](https://github.com/Jleguim/tutmonda-project )
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with learning MEAN stack 
 - 💬 Ask me about ferrets 
