@@ -1,6 +1,6 @@
 ## Aye, I'm Javi 👋
 >_Nunca pares de aprender._ - Someone probably
-#### 17 year old self-taught developer that builds stuff from the ground up for "fun".
+#### 18 year old self-taught developer that builds stuff from the ground up for "fun".
 - 🤔 Currently learning Python
 - 💜 Purple is my favorite color
 - ❤ Love ferrets, cats and hedgehogs
