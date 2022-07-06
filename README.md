@@ -1,10 +1,9 @@
 ## Aye, I'm Javi 👋
 >_Nunca pares de aprender._ - Someone probably
 #### 18 year old self-taught developer that builds stuff from the ground up for "fun".
-- 🤔 Currently learning Python
+- 🦍 Currently working on [Claimer](https://github.com/Jleguim/claimer)
 - 💜 Purple is my favorite color
 - ❤ Love ferrets, cats and hedgehogs
-- 🦍 Working on [Tutmonda](https://github.com/Jleguim/tutmonda-project)
 
 ### Skills
 - 🌐 Web development experience with JS, HTML & Express
