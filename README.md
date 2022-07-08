@@ -1,13 +1,14 @@
 ## Aye, I'm Javi 👋
 >_Nunca pares de aprender._ - Someone probably
 #### 18 year old self-taught developer that builds stuff from the ground up for "fun".
-- 🦍 Currently working on [Claimer](https://github.com/Jleguim/claimer)
 - 💜 Purple is my favorite color
 - ❤ Love ferrets, cats and hedgehogs
+- 🦍 Currently working on [Claimer](https://github.com/Jleguim/claimer)
+- ⚡ Currently *"learning"* [Electron](https://www.electronjs.org/) 
 
 ### Skills
 - 🌐 Web development experience with JS, HTML & Express
-- 📋 Database knowledge with Mongo & MySQL
+- 📋 Database knowledge with Mongo
 - 💬 Text bot experience with Discord & Telegram
 - 🗨 Bilingual (English & Spanish)
 
