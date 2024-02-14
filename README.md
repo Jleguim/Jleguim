@@ -3,7 +3,7 @@
 #### 19 year old self-taught developer that builds stuff from the ground up for "fun".
 - 💜 Purple is my favorite color
 - ❤ Love ferrets, cats and hedgehogs
-- 🦍 Currently working on [Claimer](https://github.com/Jleguim/claimer)
+- 🦍 Currently working on [Briggs' Video Compressor](https://github.com/Jleguim/briggs-video-compressor)
 - ⚡ Currently *"learning"* [Electron](https://www.electronjs.org/) 
 
 ### Skills
