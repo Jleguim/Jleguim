@@ -13,8 +13,6 @@
 - 🗨 Bilingual (English & Spanish)
 
 ### Contact
-- Youtube ([Briggoes](https://www.youtube.com/channel/UC15bHf8XbPIlQkifmlaSoDw))
-- Twitter ([@Jleguim_](https://twitter.com/Jleguim_))
 - Discord ([briggoes](https://discord.gg/AH6yFdQtr4))
 - Twitch ([Briggoes](https://twitch.tv/briggoes))
 - Email (jlegui745@gmail.com)
