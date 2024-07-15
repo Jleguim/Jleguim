@@ -1,23 +1,22 @@
 ## Aye, I'm Javi 👋
 >_Nunca pares de aprender._ - Someone probably
 #### 20 year old self-taught developer that builds stuff from the ground up for "fun".
-- 💜 Purple is my favorite color
-- ❤ Love ferrets, cats and hedgehogs
-- 🦍 Currently working on [Briggs' Video Compressor](https://github.com/Jleguim/briggs-video-compressor)
-- ⚡ Currently *"learning"* [Electron](https://www.electronjs.org/) 
+🦍 Currently working on [Briggs' Video Compressor](https://github.com/Jleguim/briggs-video-compressor)</br>
+⚡ Currently *"learning"* [Electron](https://www.electronjs.org/)</br>
 
 ### Skills
-- 🌐 Web development experience with JS, HTML & Express
-- 📋 Database knowledge with Mongo
-- 💬 Text bot experience with Discord & Telegram
-- 🗨 Bilingual (English & Spanish)
+🌐 Web development experience with JS, HTML & Express</br>
+📋 Database knowledge with Mongo</br>
+🤖 Text bot experience with Discord & Telegram</br>
+🗨 Bilingual (English & Spanish)</br>
 
 ### Contact
-- Discord ([briggoes](https://discord.gg/AH6yFdQtr4))
-- Twitch ([Briggoes](https://twitch.tv/briggoes))
-- Email (jlegui745@gmail.com)
+✉️ Email — jlegui745@gmail.com</br>
+🎮 Discord — [@briggoes](https://discord.gg/AH6yFdQtr4)</br>
+💜 Twitch — [twitch.tv/briggoes](https://twitch.tv/briggoes)</br>
 
-<details><summary>Stats</summary>
+</br>
+
 <table align="center">
   <tr>
     <td>
