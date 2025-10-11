@@ -1,8 +1,9 @@
 ## Aye, I'm Javi 👋
 >_Nunca pares de aprender._ - Someone probably
-#### 20 year old self-taught developer that builds stuff from the ground up for "fun".
-🦍 Currently working on [Briggs' Video Compressor](https://github.com/Jleguim/briggs-video-compressor)</br>
-⚡ Currently *"learning"* [Electron](https://www.electronjs.org/)</br>
+#### 21 year old self-taught developer that builds stuff from the ground up for "fun".
+🎓 Currently trying to major in Systems Engineering @ [Uninorte](https://uninorte.edu.co/)</br>
+~🦍 Currently working on [Briggs' Video Compressor](https://github.com/Jleguim/briggs-video-compressor)</br>
+⚡ Currently *"learning"* [Electron](https://www.electronjs.org/)</br>~
 
 ### Skills
 🌐 Web development experience with JS, HTML & Express</br>
