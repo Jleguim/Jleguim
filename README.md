@@ -21,10 +21,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src ="https://github-readme-stats.vercel.app/api?username=Jleguim&show_icons=true&theme=tokyonight&custom_title=Jleguim%27s%20stats&hide_border=true&bg_color=00000000&hide_title=true" />
+      <img src ="https://github-readme-stats-one-bice.vercel.app/api?username=Jleguim&show_icons=true&theme=tokyonight&custom_title=Jleguim%27s%20stats&hide_border=true&bg_color=00000000&hide_title=true" />
     </td>
     <td>
-      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Jleguim&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" />
+      <img src ="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jleguim&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" />
     </td>
   </tr>
 </table>
